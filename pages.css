@@ -1,0 +1,69 @@
+*{
+    font-family:Helvetica, Arial, sans-serif;
+    margin:0;
+    padding:0;
+}
+
+.banner{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.navbar {
+    width: 85%;
+    margin: auto;
+    padding: 35 px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 100px;
+    padding-top:5px;
+    cursor: pointer;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+
+}
+
+.navbar ul li a:hover{
+    color: #8BDEFF;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: #00429B;
+    text-transform: uppercase;
+}
+
+.schedule {
+    width: 90%;
+    height: auto;
+    background-color: white;
+    margin:auto;
+    padding: 20px;
+}
+
+table {
+    margin:auto;
+    border-spacing: 0 20px;
+}
+
+th, td{
+    padding: 20px;
+}
+
+.date{
+    text-align: right;
+    font-size: 35px;
+}
+
+.event {
+    text-align: left;
+    font-size: 20px;
+}
