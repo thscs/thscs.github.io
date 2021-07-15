@@ -7,7 +7,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(media/logo.png);
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.65)),url(media/taylor_HS.png);
     background-size: cover;
     background-position:center;   
 }
@@ -63,3 +63,4 @@
     font-weight: 100px;
     line-height:25px;
 }
+
