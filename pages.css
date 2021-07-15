@@ -2,11 +2,14 @@
     font-family:Helvetica, Arial, sans-serif;
     margin:0;
     padding:0;
+    background-color: #f4f4f4;
 }
+
 
 .banner{
     width: 100%;
     margin-bottom: 20px;
+    background-color:#00429B;
 }
 
 .navbar {
@@ -16,19 +19,33 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color:#00429B;
+}
+
+.navpages{
+    background-color:#00429B;
+}
+
+.navpage{
+    background-color:#00429B;
 }
 
 .logo{
     width: 100px;
     padding-top:5px;
     cursor: pointer;
+    background-color:#00429B;
+}
+
+.logobg{
+    background-color:#00429B;
 }
 
 .navbar ul li{
     list-style: none;
     display: inline-block;
     margin: 0 20px;
-
+    background-color:#00429B;
 }
 
 .navbar ul li a:hover{
@@ -37,14 +54,14 @@
 
 .navbar ul li a{
     text-decoration: none;
-    color: #00429B;
+    color: white;
     text-transform: uppercase;
 }
 
 .schedule {
     width: 90%;
     height: auto;
-    background-color: white;
+    background-color: #f4f4f4;;
     margin:auto;
     padding: 20px;
 }
