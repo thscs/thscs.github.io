@@ -67,3 +67,37 @@ th, td{
     text-align: left;
     font-size: 20px;
 }
+
+.tools {
+    width:80%;
+    margin:auto;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.tool {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Button style inspiration: https://www.fabriziovanmarciano.com/button-styles/ */
+button {
+    color: #00429B !important;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: #ffffff;
+	padding: 20px;
+	border: 4px solid #00429B !important;
+	display: inline-block;
+	transition: all 0.4s ease 0s;
+    width: 15em;
+}
+
+button:hover{
+    color: white !important;
+	background: #00429B;
+	border-color: #00429B !important;
+	transition: all 0.4s ease 0s;
+}
