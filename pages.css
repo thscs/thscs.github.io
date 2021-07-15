@@ -118,3 +118,8 @@ button:hover{
 	border-color: #00429B !important;
 	transition: all 0.4s ease 0s;
 }
+
+.date{
+    position: absolute;
+    text-align: center;
+}

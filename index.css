@@ -64,3 +64,48 @@
     line-height:25px;
 }
 
+#meet_officers {
+    width: 100%;
+    align-items: center;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.slide {
+    vertical-align: middle;
+    margin: auto;
+    padding-bottom: 150px;
+    padding-left: 200px;
+    padding-right: 200px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.officer{
+    padding: 1%;
+    width: 17%;
+    display:inline-block;
+    margin: auto;
+}
+
+.officer_img{
+    width: 100%;
+    border: 5px solid #00429B;
+}
+
+.name{
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.position{
+    text-align: center;
+}
