@@ -89,7 +89,7 @@ th, td{
     width:80%;
     margin:auto;
     display: grid;
-    grid-template-columns: 50% 50%;
+    /*grid-template-columns: 50% 50%;*/
 }
 
 .tool {
@@ -117,4 +117,21 @@ button:hover{
 	background: #00429B;
 	border-color: #00429B !important;
 	transition: all 0.4s ease 0s;
+}
+
+
+.titleThing {
+    color: #00429B;
+}
+
+.resource{
+    margin-top: 30px;
+}
+
+.links{
+    margin-top: 10px;
+}
+.date{
+    position: absolute;
+    text-align: center;
 }
