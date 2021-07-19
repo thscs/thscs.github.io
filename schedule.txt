@@ -1,0 +1,10 @@
+How to use this: start and end the document with 4 +s. Put 4 +s between each date and event. You can make dates and/or events multiple lines as long as you separate dates and events with 4 +s as shown below.
+++++
+August 3rd
+++++
+First day of school for the 2021-2022 school year.
+++++
+September 6th
+++++
+Student and Teacher holiday
+++++
